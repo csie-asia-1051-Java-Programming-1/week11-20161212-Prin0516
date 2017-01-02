@@ -7,7 +7,8 @@ package ex;
 import java.util.Scanner;
 
 public class ex01 {
-	public static void main(String[] args) {
+	public static void main(
+			String[] args) {
 		Scanner scn = new Scanner(System.in);
 		System.out.println("請輸入有幾筆");
 		int n = scn.nextInt();
